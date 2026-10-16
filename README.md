@@ -7,11 +7,12 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
+1. กาลครั้งหนึ่งนานมาแล้ว กางหุบเขาใหญ่ มีปราสาทใหญ่โตสวยงามหลังหนึ่งตั้งอยู่  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. เมื่อพวกเราค้นพบ ก็ไม่รอช้าพากันเข้าไปสำรวจด้านในของปราสาท แต่แล้วจู่ ๆ ก็พบมังกรปรากฏอยู่กลางห้องโถง ตัวใหญ่มหึมา แสงแดดที่ส่องเข้ามาทำให้มันน่าเกรงขามยิ่งกว่าเดิม 
+<br><br>แต่ เอ๊ะ พอขยับเข้าไปมองใกล้ ๆ แล้ว ดูเหมือนว่ามันจะเป็นหุ่นยนต์ไหมนะ . .
+<br>จนถึงตอนนี้พวกเราก็ยังรู้คำตอบที่แท้จริง
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
